@@ -1,0 +1,23 @@
+
+.details p{
+    display: inline-block;
+}
+
+.work span {
+    font-weight: bold;
+    display: block;
+}
+.work p {
+    line-height: 1.5;
+}
+.details span {
+    font-weight: bold;
+    padding-right: 20px ;
+}
+
+.details p {
+    margin-left: 30px ;
+}
+.details p:nth-of-type(1){
+    margin-left: 0;
+}
